@@ -38,9 +38,9 @@ CIM, Minsk - web-developer
 Also I work as a freelancer
 
 ### Education 
-geological engineer
+BSU, 2015 geological engineer
 
-Software Testing Introduction
+Stormnet, 2015 Software Testing Introduction
 
 ### English
 
