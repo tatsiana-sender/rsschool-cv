@@ -14,11 +14,16 @@ To obtain position of junior web-developer, what will allow me to use my knowled
 
 * Experience with version control
 
-* Understanding of web standards, cross-browser compatibility and adaptivity, semantic markup;
+* Understanding of web standards, cross-browser compatibility and adaptivity, semantic markup
+
+* experience in LESS/SASS, with Figma
+
+* understanding of css organization approaches (BEM)
+
 
 ### Code examples
 
-https://www.fl.ru/users/tatsiana_sender/
+[FL portfolio](https://www.fl.ru/users/tatsiana_sender/)
 ### Experience 
 
 november 2019 - february 2020  
