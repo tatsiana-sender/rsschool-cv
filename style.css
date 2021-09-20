@@ -46,7 +46,12 @@ figure {
 section {
     padding: 20px;
     text-align: left;
-    border-left: 2px solid grey;
+}
+
+@media (min-width: 551px) {
+    section {      
+        border-left: 2px solid grey;
+    }
 }
 
 .progress span {
